@@ -1,0 +1,20 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~177|Field=Description~String~Description~177|Field=Designator~String~Designator~177|Field=Footprint~String~Footprint~177|Field=LibRef~String~LibRef~177|Field=Quantity~Integer~Quantity~177|Field=Farnell PN~String~Farnell PN~177|Field=Digikey~String~Digikey~177|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~CANtact.PrjPcb|ReportField=ProjectFullPath~C:\Users\podonoghue\Documents\Development\CANtact\CANtact.PrjPcb|ReportField=Title~Bill of Materials For Project [CANtact.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~32|ReportField=ReportTime~5:22:31 PM|ReportField=ReportDate~13/01/2019|ReportField=ReportDateTime~13/01/2019 5:22:31 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~13/01/2019|ReportField=CurrentTime~5:22:29 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\podonoghue\Documents\Development\CANtact\CANtact.SchDoc|ReportField=DocumentName~CANtact.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~13/01/2019|ReportField=Organization~|ReportField=ProjectName~CANtact.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~CANtact.PrjPcb|ReportField=DataSourceFullPath~C:\Users\podonoghue\Documents\Development\CANtact\CANtact.PrjPcb
+1|1uF|Capacitor SMT 0805|C1, C2, C11|CC2012-0805|Cap_CC_0805|3||
+2|100nF|Capacitor non-polar SMT 0603|C3, C4, C5, C6, C8, C12|CCNP1608-0603|Cap_CCNP_0603|6||
+3|4n7|Capacitor non-polar SMT 0805|C7|CCNP2012-0805|Cap_CCNP_0805|1||
+4|18pF|Capacitor non-polar SMT 0603|C9, C10|CCNP1608-0603|Cap_CCNP_0603|2||
+5|LED Green|LED 0603 Green (1.25mm x 1.4mm, 20 mA, 2.2 V, 572 nm)|D1|LED1608-0603-GREEN|LED-0603-Green|1|1581242|
+6|LED Red|LED 0603 Red (1.25mm x 1.4mm, 20 mA, 2.1 V, 626 nm)|D2|LED1608-0603-RED|LED-0603-Red|1|1581239|
+7|TP|Test Point|Gnd, Rx, Tx|PCBPIN - 0.7mm|TP|3||
+8|USB Micro-B Connector|USB Micro-B (MOLEX - 47346-0001)|J1|MOLEX - 47346-0001|USB_MICRO_B_CONNECTOR|1|1568026|
+9|PIN2X1||JP1, JP2|HDR1X2S|PIN2X1|2||
+10|SWD2X5|SWD Connector 2x5-Pin|P1|SWD-2x5|SWD2X5|1|1865285|
+11|Terminal4_BUCHANAN|2.54mm Terminal Block|P2|TYCO-282834-4|Terminal4_BUCHANAN|1|2396253|
+12|120R|Resistor SMT 0603|R1, R2|CR1608-0603|Res_CR0603|2||
+13|510R|Resistor SMT 0603|R3|CR1608-0603|Res_CR0603|1||
+14|60R4|Resistor SMT 0805|R4, R5|CR2012-0805|Res_CR0805|2||
+15|SW_PB-SMT-B3U-1000P-B|Switch OMRON B3U series|S1|SW_SMT_PB2-B3U-1000P-B|SW_PB-SMT-B3U-1000P-B|1|1333654|
+16|STM32F042C6T6|ARM Microcontroller with CAN|U1|TSQFP50P900X900-48M|STM32F042C6T6|1|2750630|
+17|MCP2562-E/SN|CAN Tranceiver|U2|SO-8_L|MCP2562-E/SN|1|2362839|
+18|MCP1703T-3302E/CB|3V3 LDO regulator|U3|SOT23|MCP1703T-3302E/CB|1|2136813|
+19|XTAL 16MHz|7A-16.000MAAJ-T -  Crystal, 16 MHz, SMD, 5mm x 3.2mm, 30 ppm, 18 pF, 30 ppm, 7A Series|Y1|XTAL_SMT - 5x3.2|XTAL 16MHz 5x3.2mm - 7A-16.000MAAJ-T|1|1841946|
