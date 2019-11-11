@@ -145,12 +145,12 @@ DocumentPath=Project Outputs for CANtact\Design Rule Check - CANtact.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectRevision
-Value=V1.3
-
-[Parameter2]
 Name=ProjectDescription
 Value=CANtact - CAN Interface
+
+[Parameter2]
+Name=ProjectRevision
+Value=V1.3
 
 [Configuration1]
 Name=Default Configuration
