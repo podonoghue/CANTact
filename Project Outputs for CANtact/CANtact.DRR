@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: CANtact.PcbDoc   11/11/2019  11:48:16 AM
+NCDrill File Report For: CANtact.PcbDoc   11/11/2019  10:14:13 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,7 +9,7 @@ ASCII SlotHoles File : CANtact-SlotHoles.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      10mil (0.254mm)                                           Round             49        PTH        0.00inch (0.00mm)
-T2      12mil (0.3mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T2      12mil (0.3mm)                                             Round             22        PTH        0.00inch (0.00mm)
 T3      16mil (0.401mm)                                           Round             16        PTH        0.00inch (0.00mm)
 T4      24mil (0.599mm)                                           Round             9         PTH        0.00inch (0.00mm)
 T5      24mil (0.599mm)                                           Slot              4         PTH        0.00inch (0.00mm)
@@ -17,6 +17,6 @@ T6      28mil (0.701mm)                                           Round         
 T7      35mil (0.899mm)                                           Round             4         PTH        0.00inch (0.00mm)
 T8      43mil (1.1mm)                                             Round             4         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              99
+Totals                                                                              111
 
 Total Processing Time (hh:mm:ss) : 00:00:01
