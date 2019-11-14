@@ -140,10 +140,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for CANtact\CANtact.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument14]
-DocumentPath=Project Outputs for CANtact\Design Rule Check - CANtact.html
-DItemRevisionGUID=
-
 [Parameter1]
 Name=ProjectDescription
 Value=CANtact - CAN Interface
