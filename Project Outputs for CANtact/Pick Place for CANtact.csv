@@ -4,16 +4,16 @@ C:\Users\podonoghue\Documents\Development\CANtact\Project Outputs for CANtact\Pi
 ========================================================================================================================
 File Design Information:
 
-Date:       11/11/19
-Time:       22:14
-Revision:   b42855ee1938e60140dc6c9590fcef250b834a7d
+Date:       28/11/19
+Time:       21:51
+Revision:   2f9e306381f070c0c5e9392656a213ddd305d6e9
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
 "U3","XC6206P332MR","TopLayer","SOT23_N","28.8036","-6.7310","270","3V3 200mA, LDO regulator (Low ESR ceramic caps)"
 "D2","LED Red","TopLayer","LED1608-0603-RED","22.8092","7.8740","180","LED 0603 Red"
-"D1","LED Green","TopLayer","LED1608-0603-GREEN","22.8092","6.3500","180","LED 0603 Green"
+"D1","LED Yellow","TopLayer","LED1608-0603-Yellow","22.8092","6.3500","180","LED 0603 Yellow"
 "C2","1uF","TopLayer","CCNP1608-0603","3.4290","-2.9464","90","Capacitor non-polar SMT 0603"
 "Z1","USBLC6-2SC6","TopLayer","SOT23-6_N","-0.0508","0.0000","180","TVS diode array for USB"
 "R7","5.1K","TopLayer","CR1608-0603","-0.4976","-6.0350","360","Resistor SMT 0603"
@@ -33,17 +33,16 @@ Units used: mm
 "J1","USB4085-GF-A","TopLayer","USB4085-GF-A","-5.1462","0.0000","0","USB-C, USB 2.0 Receptacle Connector 16 Position Through Hole, Right Angle"
 "R1","1K","TopLayer","CR1608-0603","19.2650","6.3500","0","Resistor SMT 0603"
 "R2","1K","TopLayer","CR1608-0603","19.2650","7.8740","0","Resistor SMT 0603"
-"R3","510R","TopLayer","CR1608-0603","12.0142","-6.1468","270","Resistor SMT 0603"
+"R3","510 ohm","TopLayer","CR1608-0603","12.0142","-6.1468","270","Resistor SMT 0603"
 "U1","STM32F042C6T6","TopLayer","TSQFP50P900X900-48N","9.1440","2.1590","90","ARM Microcontroller with CAN"
 "JP2","PIN2X1","TopLayer","HDR1X2S","38.7350","6.7310","360",""
-"R4","60R4","TopLayer","CR2012-0805","34.5440","6.7310","270","Resistor SMT 0805"
-"P1","SWD2X5","TopLayer","SWD-2x5","5.4610","-6.8580","180","SWD Connector 2x5-Pin"
+"R4","60.4 ohm","TopLayer","CR2012-0805","34.5440","6.7310","270","Resistor SMT 0805"
 "P2","Terminal4_BUCHANAN","TopLayer","TYCO-282834-4","39.4970","0.0000","90","2.54mm Terminal Block"
 "Rx","TP","TopLayer","PCBPIN_-_0.7MM","27.6860","-3.5550","0","Test Point"
 "Tx","TP","TopLayer","PCBPIN_-_0.7MM","24.3979","-3.5550","0","Test Point"
 "Gnd","TP","TopLayer","PCBPIN_-_0.7MM","22.5552","-6.0960","0","Test Point"
-"C7","4n7","TopLayer","CCNP2012-0805","32.3850","6.7310","270","Capacitor non-polar SMT 0805"
+"C7","4.7nF","TopLayer","CCNP2012-0805","32.3850","6.7310","270","Capacitor non-polar SMT 0805"
 "JP1","PIN2X1","TopLayer","HDR1X2S","38.7350","-6.7310","360",""
-"R5","60R4","TopLayer","CR2012-0805","34.5440","-6.8580","270","Resistor SMT 0805"
+"R5","60.4 ohm","TopLayer","CR2012-0805","34.5440","-6.8580","270","Resistor SMT 0805"
 "U2","MCP2562-E/SN","TopLayer","SO-8_L","30.4800","0.8890","270","CAN Tranceiver"
 "C12","100nF","TopLayer","CCNP1608-0603","32.7660","-2.8702","360","Capacitor non-polar SMT 0603"
